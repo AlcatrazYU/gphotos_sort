@@ -6,12 +6,6 @@ Sort Google Photos album images by filename.
 Google Photos can not sort by filename.  
 This Chrome extension fulfills by background fetching image pages.
 
-## Fork Update (2026-01-15)
-This fork fixes real-world breakages and is usable now:
-- Robust album parsing for updated Google Photos page format
-- More reliable sorting with retries and post-sort correction
-- Missing filename recovery to avoid leftover items
-- Runtime logs and messages normalized to English
 
 ## Donation
 If you like this extension please consider to support development.
